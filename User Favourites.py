@@ -18,7 +18,7 @@ userhighest = userhighest[['UserID', 'MovieID', 'Rating']]
 
 #df2.to_csv ('UserFavs.csv')
 
-#OPTIONAL: Renaming the MovieIDs to the actual Movie Names
+#OPTIONAL: Renaming the MovieIDs to the actual Movie NamesI u
 
 columns2 = ['MovieID', 'Title', 'Gender']
 
